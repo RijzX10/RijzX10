@@ -11,7 +11,7 @@ Expanding my expertise in Machine Learning models and Azure Cloud.
 - **Tools**: Excel, Jupyter, Git
 
 ## Projects
-- [TLC NYC Dataset Analysis](https://github.com/<your-username>/TLC-NYC-Dataset)
+- [TLC NYC Dataset Analysis](https://github.com/RijzX10/Data-Analytics-Portfolio/blob/master/NYC_TLC_Project.ipynb)
 - [Uber Data Analysis Project](https://github.com/<your-username>/Uber-Data-Analysis)
 
 ## Contact Me
