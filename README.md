@@ -17,7 +17,7 @@ Expanding my expertise in Machine Learning models and Azure Cloud.
 
 ## Contact Me
 - 📧 Email: satyamshreemoharana.76@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/satyamshree-moharana-7300791a0/)
+- 💼 LinkedIn: [Satyamshree Moharana](https://www.linkedin.com/in/satyamshree-moharana-7300791a0/)
 <!-- - 🐦 [Twitter](https://twitter.com/<your-username>) -->
 <!-- - 🌐 [Portfolio](https://<your-username>.github.io) -->
 
