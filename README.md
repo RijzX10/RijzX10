@@ -11,9 +11,9 @@ Expanding my expertise in Machine Learning models and Azure Cloud.
 - **Tools**: Excel, Jupyter, Git
 
 ## Projects
-- [TLC NYC Dataset Analysis](https://github.com/RijzX10/Data-Analytics-Portfolio/blob/master/NYC_TLC_Project.ipynb)
-- [Uber Data Analysis Project](https://github.com/<your-username>/Uber-Data-Analysis)
-- [Cafe Shop Sales Analysis](https://github.com/RijzX10/Data-Analytics-Portfolio/blob/master/cafe%20shop%20MS%20SQL%20code.sql)
+- [TLC NYC Dataset Analysis](https://github.com/RijzX10/Data-Analytics-End-to-End-Projects/blob/f1d83693d84a0deedfa9d78ee958ab277676c336/NYC%20TLC%20Project%20(Python)/NYC_TLC_Project.ipynb)
+- [Uber Data Analysis Project](https://github.com/RijzX10/Data-Analytics-End-to-End-Projects/blob/f1d83693d84a0deedfa9d78ee958ab277676c336/Uber%20Project%20(Python)/Uber%20project%20Satyam.ipynb)
+- [Cafe Shop Sales Analysis](https://github.com/RijzX10/Data-Analytics-End-to-End-Projects/blob/f1d83693d84a0deedfa9d78ee958ab277676c336/Cafe%20shop%20sales%20Project%20(SQL%20%2B%20Power%20BI)/cafe%20shop%20MS%20SQL%20code.sql)
 
 ## Contact Me
 - 📧 Email: satyamshreemoharana.76@gmail.com
